@@ -1,0 +1,17 @@
+{
+  "packages": {
+    "terraform/dummy-module-1": {
+      "release-type": "terraform-module",
+      "package-name": "dummy-module-1",
+      "changelog-path": "CHANGELOG.md",
+      "include-component-in-tag": true
+    },
+    "terraform/dummy-module-2": {
+      "release-type": "terraform-module",
+      "package-name": "dummy-module-2",
+      "changelog-path": "CHANGELOG.md",
+      "include-component-in-tag": true
+    }
+  },
+  "bootstrap-sha": "a63de5e10e87c16d2c6a0e6e91effd5f27788a59"
+}
