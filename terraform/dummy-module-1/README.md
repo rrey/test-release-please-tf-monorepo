@@ -12,4 +12,4 @@ module "dummy_1" {
 
 ## Resources
 
-- `null_resource.dummy` - A dummy null resource with a timestamp trigger
+- `null_resource.dummy` - A dummy null resource
