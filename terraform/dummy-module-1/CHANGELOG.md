@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.0](https://github.com/algolia/test-release-please-tf-monorepo/compare/dummy-module-1-v0.4.0...dummy-module-1-v0.5.0) (2026-01-09)
+
+
+### Features
+
+* another fake feature to trigger bump ([2b3d164](https://github.com/algolia/test-release-please-tf-monorepo/commit/2b3d1646a3edc193abbc68931b02289c4545179d))
+
 ## [0.4.0](https://github.com/algolia/test-release-please-tf-monorepo/compare/dummy-module-1-v0.3.0...dummy-module-1-v0.4.0) (2026-01-09)
 
 

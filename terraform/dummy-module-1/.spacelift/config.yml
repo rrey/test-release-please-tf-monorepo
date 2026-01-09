@@ -1,6 +1,6 @@
 # spacelift config
 version: 1
-module_version: 0.4.0 # x-release-please-version
+module_version: 0.5.0 # x-release-please-version
 
 test_defaults:
   runner_image: 832817662305.dkr.ecr.eu-west-1.amazonaws.com/spacelift:0.11.0
