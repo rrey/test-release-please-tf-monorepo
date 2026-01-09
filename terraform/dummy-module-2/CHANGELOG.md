@@ -1,6 +1,6 @@
 # Changelog
 
-## [0.2.0](https://github.com/algolia/test-release-please-tf-monorepo/compare/dummy-module-1-v0.1.0...dummy-module-1-v0.2.0) (2026-01-09)
+## 0.1.0 (2026-01-09)
 
 
 ### Features
@@ -12,10 +12,3 @@
 ### Bug Fixes
 
 * fake commit to trigger release please ([e928228](https://github.com/algolia/test-release-please-tf-monorepo/commit/e9282288dd4b74ef9d79efbd0343e025ca224177))
-
-## 0.1.0 (2026-01-06)
-
-
-### Features
-
-* **dummy-module-1:** Update required Terraform version to 1.5 ([b19ec20](https://github.com/rrey/test-release-please-tf-monorepo/commit/b19ec2025f4bab86f3c34404bae92340c5cd226f))
